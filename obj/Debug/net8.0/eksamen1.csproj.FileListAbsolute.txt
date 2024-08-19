@@ -1,0 +1,15 @@
+D:\Onedrive\programming\eksamen1\eksamen1\bin\Debug\net8.0\eksamen1.exe
+D:\Onedrive\programming\eksamen1\eksamen1\bin\Debug\net8.0\eksamen1.deps.json
+D:\Onedrive\programming\eksamen1\eksamen1\bin\Debug\net8.0\eksamen1.runtimeconfig.json
+D:\Onedrive\programming\eksamen1\eksamen1\bin\Debug\net8.0\eksamen1.dll
+D:\Onedrive\programming\eksamen1\eksamen1\bin\Debug\net8.0\eksamen1.pdb
+D:\Onedrive\programming\eksamen1\eksamen1\obj\Debug\net8.0\eksamen1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Onedrive\programming\eksamen1\eksamen1\obj\Debug\net8.0\eksamen1.AssemblyInfoInputs.cache
+D:\Onedrive\programming\eksamen1\eksamen1\obj\Debug\net8.0\eksamen1.AssemblyInfo.cs
+D:\Onedrive\programming\eksamen1\eksamen1\obj\Debug\net8.0\eksamen1.csproj.CoreCompileInputs.cache
+D:\Onedrive\programming\eksamen1\eksamen1\obj\Debug\net8.0\eksamen1.sourcelink.json
+D:\Onedrive\programming\eksamen1\eksamen1\obj\Debug\net8.0\eksamen1.dll
+D:\Onedrive\programming\eksamen1\eksamen1\obj\Debug\net8.0\refint\eksamen1.dll
+D:\Onedrive\programming\eksamen1\eksamen1\obj\Debug\net8.0\eksamen1.pdb
+D:\Onedrive\programming\eksamen1\eksamen1\obj\Debug\net8.0\eksamen1.genruntimeconfig.cache
+D:\Onedrive\programming\eksamen1\eksamen1\obj\Debug\net8.0\ref\eksamen1.dll
